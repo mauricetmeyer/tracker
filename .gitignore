@@ -1,0 +1,10 @@
+##
+# Misc
+*.DS_Store
+*.secrets.yml
+
+##
+# Default dirs
+*/node_modules
+*/dist
+*/*build
